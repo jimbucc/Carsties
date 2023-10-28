@@ -37,3 +37,14 @@ M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Npgsql.
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\System.CodeDom.dll
 M:\Microservices-dev\Course\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.AssemblyReference.cache
 M:\Microservices-dev\Course\Carsties\src\AuctionService\obj\Debug\net7.0\AuctionService.csproj.CopyComplete
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.Abstractions.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.RabbitMqTransport.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\RabbitMQ.Client.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
