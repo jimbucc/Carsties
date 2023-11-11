@@ -48,3 +48,10 @@ M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\RabbitM
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.dll
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Contracts.pdb
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\MassTransit.EntityFrameworkCoreIntegration.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
