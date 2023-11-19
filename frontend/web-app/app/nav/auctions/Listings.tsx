@@ -4,18 +4,12 @@ import React, { useEffect, useState } from "react";
 import AuctionCard from "./AuctionCard";
 import { PagedResult, Auction } from "@/types";
 import AppPagination from "@/app/components/AppPagination";
-import getData from "@/app/actions/auctionActions";
+import { getData } from "@/app/actions/auctionActions";
 import Filters from "./Filters";
 import { shallow } from "zustand/shallow";
 import qs from "query-string";
 import { useParamsStore } from "@/hooks/useParamStore";
 import EmptyFilter from "@/app/components/EmptyFilter";
-
-// const getData = async (): Promise<PagedResult<Auction>> => {
-//     const res = await fetch('http://localhost:6001/search?pageSize=4')
-//     if(!res.ok) throw new Error('Failed to fetch data')
-//     return res.json();
-// }
 
 const Listings = () => {
   const [data, setData] = useState<PagedResult<Auction>>();
