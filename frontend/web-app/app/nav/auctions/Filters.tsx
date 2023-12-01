@@ -1,4 +1,4 @@
-import { useParamsStore } from "@/hooks/useParamStore";
+import { useParamsStore } from "@/hooks/useParamsStore";
 import { Button } from "flowbite-react";
 import React from "react";
 import { AiOutlineClockCircle, AiOutlineSortAscending } from "react-icons/ai";

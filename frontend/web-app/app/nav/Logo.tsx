@@ -1,6 +1,6 @@
 'use client'
 
-import { useParamsStore } from '@/hooks/useParamStore'
+import { useParamsStore } from '@/hooks/useParamsStore'
 import { usePathname, useRouter } from 'next/navigation'
 import React from 'react'
 import { AiOutlineCar } from 'react-icons/ai'

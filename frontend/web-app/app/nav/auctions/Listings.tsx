@@ -8,7 +8,7 @@ import { getData } from "@/app/actions/auctionActions";
 import Filters from "./Filters";
 import { shallow } from "zustand/shallow";
 import qs from "query-string";
-import { useParamsStore } from "@/hooks/useParamStore";
+import { useParamsStore } from "@/hooks/useParamsStore";
 import EmptyFilter from "@/app/components/EmptyFilter";
 
 const Listings = () => {
@@ -20,6 +20,8 @@ const Listings = () => {
       searchTerm: state.searchTerm,
       orderBy: state.orderBy,
       filterBy: state.filterBy,
+      seller: state.seller,
+      winner: state.winner
     }),
     shallow
   );

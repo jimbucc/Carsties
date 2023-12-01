@@ -16,7 +16,6 @@ export async function getCurrentUser() {
 
         return session.user
     } catch (error) {
-        console.log("Error getting session")
         return null
     }
 }
