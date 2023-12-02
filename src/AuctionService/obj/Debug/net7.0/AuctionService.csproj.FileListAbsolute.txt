@@ -55,3 +55,10 @@ M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microso
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Google.Protobuf.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Grpc.AspNetCore.Server.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Grpc.AspNetCore.Server.ClientFactory.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Grpc.Core.Api.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Grpc.Net.Client.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Grpc.Net.ClientFactory.dll
+M:\Microservices-dev\Course\Carsties\src\AuctionService\bin\Debug\net7.0\Grpc.Net.Common.dll
