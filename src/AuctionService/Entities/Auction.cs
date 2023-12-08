@@ -14,4 +14,6 @@ public class Auction
     public Status Status { get; set; }
     public Item Item { get; set; }
 
+    // testing
+    public bool HasReservedPrice() => ReservedPrice > 0;
 }
